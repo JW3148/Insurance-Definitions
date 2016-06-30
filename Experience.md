@@ -6,3 +6,5 @@ Experience
 - figures may be compiled on accident year basis, calendar year basis or policy year basis; 
 - for underwriting purposes, the comparison of earned premium to incurred losses; 
 - the statistics related to the events connected with the assumption of risk. 
+-
+
