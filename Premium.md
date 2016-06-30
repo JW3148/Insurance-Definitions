@@ -17,5 +17,10 @@ Unearned premium
 - if the policy is cancelled with no panalty, the return premium is be the same as unearned preimum, estimated by the pro rata method
 
 
+Gross premium
+- The written premium before deducting any premium paid for reinsurance
+and in some cases before paying any return premiums. 
+
+
 
 
