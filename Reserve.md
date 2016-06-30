@@ -9,4 +9,11 @@ Case Reserve
 IBNR (Incurred but not reported)
 - the amount owed by an insurer to all valid claimants who have had a covered loss but have not yet reported it. 
 - loss happened but not yet reported
+- The loss reserve value established in recognition of the total liability for
+future payments on losses which have occurred but have not yet been
+reported to the insurance company; 
+- also include expected future development on claims already reported; 
+- for claims made coverage, the term IBNR represents the
+liability for unpaid claims that have been incurred and reported ,but not fully
+developed. 
 
