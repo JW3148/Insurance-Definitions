@@ -1,3 +1,11 @@
+Coverage
+- a coverage is an aspect of risk coveraged by a insurance policy
+- for example, an auto policy has coverage 'Auto Liability' to pay for the damage you may cause for someone else's car. 
+- Another example, in auto policy, 'collision' coverage pays damage to your own car
+
+
+
+
 Claim-Made Coverage
 
 - A coverage form
